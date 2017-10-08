@@ -1,0 +1,16 @@
+target/
+custom_report/
+other/
+src/main/main.iml
+filepath
+TCIBTestPack/~$ScenarioSheet.xlsx
+TCIBTestData/~$TCIB-SIT-DATA.xlsx
+TCIBTestData/old 1TCIB-SIT-DATA.xlsx
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+TCIBTestData/D9527780
+TCIBTestData/Dev TCIB-SIT-DATA.xlsx
+TCIBTestPack/old ScenarioSheet.xlsx
+TCIBTestPack/old1 ScenarioSheet.xlsx

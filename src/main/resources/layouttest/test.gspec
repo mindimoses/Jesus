@@ -1,0 +1,6 @@
+@objects
+    header     css    .navbar.navbar-head
+    
+= Header =
+	header:
+		width 100 % of screen/width
